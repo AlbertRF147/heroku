@@ -1,0 +1,22 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "This is a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertRF147/heroku.git"
+  },
+  "author": "AlbertRF147",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbertRF147/heroku/issues"
+  },
+  "homepage": "https://github.com/AlbertRF147/heroku#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
