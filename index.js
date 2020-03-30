@@ -3,7 +3,7 @@ var app = express()
 var port = process.env.PORT || 5000
 
 app.get('/', function (req, res) {
-  res.send('Hello Express')
+  res.sendFile(__dirname + 'index.html')
 })
 
 app.listen(port)
